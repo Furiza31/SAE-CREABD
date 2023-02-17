@@ -1,1 +1,3 @@
 # SAE-CREABD
+## Présentation du projet
+Le but de cette SAE était de créer une base de données, pour une entreprise de location de ski, par rapport à un bon de commande.
